@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankAccounts>
+  <BankAccount Status="Active">
+    <AccountHolder>John Doe</AccountHolder>
+    <AccountNumber>123456789</AccountNumber>
+    <Phone>480-555-1234</Phone>
+    <Balance>1500.75</Balance>
+    <Address Type="Home">
+      <Street>123 Main St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </BankAccount>
+
+  <BankAccount Status="Inactive">
+    <AccountHolder>Jane Smith</AccountHolder>
+    <AccountNumber>987654321</AccountNumber>
+    <Phone>602-555-5678</Phone>
+    <Balance>250.00</Balance>
+    <Address Type="Home">
+      <Street>456 Oak Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85001</Zip>
+    </Address>
+  </BankAccount>
+</BankAccounts>
